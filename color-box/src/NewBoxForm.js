@@ -60,3 +60,5 @@ function NewBoxForm({ createBox }) {
     </div>
   );
 }
+
+export default NewBoxForm;
